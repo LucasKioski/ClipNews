@@ -1,0 +1,193 @@
+
+
+.open {
+    background-color: #87CEEB;
+    color: #000;
+    border: none;
+}
+
+body {
+    background-color: #F0F8FF;
+	font-family: agency;
+}
+
+div#bemVindo {
+    background-color: #667f7f;
+    height: 105px
+}
+
+div#slide{
+	background-color: #E0FFFF;
+	border: 3px solid #1E90bb;
+	border-radius: 1em;
+	
+}
+
+.conteudo{
+    border: 1px solid #ccc;
+	border-radius: 1em;
+    background-color: #F0F8FF;
+    padding: 20px;
+}
+
+div#div1 {
+    background-color: #667f7f;
+    height: 105px
+}
+
+div#apresentacao {
+    background-color: #cff;
+}
+
+.not1 {
+    margin: 30px;
+    background-color: #f0ffff;
+}
+
+div#busca {
+	background-color: transparent;
+}
+div#primeira{
+	background-color: #dcdcdc;
+}
+div#comeca{
+	background-color: #ededed;
+}
+
+/* css do formulário*/
+
+div#divTeste {
+    padding: 20px;
+    margin-left: 5px;
+    width: 290px;
+    height: 590px;
+    background-color: #B0E0E6;
+    border: solid 1px #D8BFD8;
+}
+
+.temanot{
+	border: solid 1px #ccc;
+	border-radius: 0.150em;
+	font-weight: bold;
+	background-color: #efefef;
+	color: #000050;
+	
+}
+.btn {
+    height: 28px;
+}
+
+h2#membros{
+	color: #fff;
+	font-weight: bold;
+}
+
+.fim{
+	color: #fff;
+	font-size: 13px;
+	font-weight: bold;
+}
+
+div#descricao{
+	background-color: #0079C1;
+
+}
+
+.date {
+    width: auto;
+    height: auto;
+    background-color: transparent;
+}
+
+input {
+    background-color: #f0ffff;
+    width: 190px;
+}
+
+div.not1{
+	margin: 30px;
+	background-color: transparent;
+}
+h4{
+	text-indent: 30px;
+}
+.grade {
+    background-color: #fff;
+    width: 1173px;
+    height: 350px;
+    margin-left: 170px;
+    margin-bottom: 50px;
+}
+
+.alinhamento {
+    padding-top: 50px;
+}
+
+.imgmin {
+    height: 300px;
+    width: 500px;
+}
+
+.imgmin2 {
+    height: 200px;
+    width: 300px;
+}
+.justificado{
+	text-align: justify;
+}
+
+/*css do menu*/
+
+nav#menuboot{
+	background-color: #0079C1;
+}
+
+li.liboot{
+	font-weight: bold;
+	font-size: 18px;
+	font-family: agency;
+}
+
+
+
+
+
+
+div#cedu{
+	margin-top: 20px;
+}
+
+div#redes{
+	background-color: transparent;
+	margin-top: 25px;
+	
+}
+div#redes img{
+	margin: 10px;
+}
+
+div#diferente{
+	background-color: transparent;
+}
+
+button#btndiferente{
+	margin-top: 17px;
+}
+
+
+
+/*estilo unslider*/
+
+.unslider {
+    background-color: transparent;
+	border-radius: 1em;
+}
+
+.titulo {
+	font-weight: bold;
+}
+.nsei{
+	width: 50%;  
+	
+
+}

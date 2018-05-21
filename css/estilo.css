@@ -1,0 +1,25 @@
+.gridster li{
+	list-style: none;
+	color:white;
+	cursor: move;
+	position:relative;
+}
+code{
+	color: red;
+}
+.gridster{
+        position: relative;
+        z-index: 1;
+    }    
+    #grids{
+        position: absolute;
+        background: #123;
+        width: 250;
+        height: 100%;
+        z-index: 1;
+        margin-left: 50%;
+        border: solid 10px #456;
+    }
+    h2{
+        z-index: 2;
+    }
